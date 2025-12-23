@@ -1,25 +1,31 @@
-🎮 Tic-Tac-Toe Game (Java Swing)
+## 🎮 Tic-Tac-Toe Game (Java Swing)
 
-A desktop-based Tic-Tac-Toe game developed using Java Swing where a user plays against an AI opponent.
+A desktop-based Tic-Tac-Toe application developed using **Java Swing**, demonstrating event-driven programming, game state management, and object-oriented design.
 
-🚀 Features
-• Interactive 3x3 GUI game board  
-• Player vs AI gameplay  
-• Automatic win, lose, and draw detection  
-• Random AI move generation  
-• Game resets after every match  
+### 🚀 Features
+- Interactive **3×3 GUI game board**
+- **Player vs AI** gameplay
+- Automatic detection of **win, loss, and draw** conditions
+- Randomized AI move generation with validation
+- Automatic game reset after each match
 
-🛠 Technologies Used
-• Java  
-• Java Swing  
-• AWT Event Handling  
-• OOP Concepts  
+### 🛠 Tech Stack
+- **Java**
+- **Java Swing**
+- **AWT Event Handling**
+- **Object-Oriented Programming (OOP)**
 
-🎯 Key Learnings
-• Java GUI development using Swing  
-• Event handling using ActionListener  
-• Logical problem-solving skills  
-• Game state management  
+### 🧠 Key Learnings
+- Event-driven application design using `ActionListener`
+- GUI state and game logic management
+- Logical problem-solving and defensive programming
+- Clean structuring of interactive Java applications
 
-▶ How to Run
-Run the TicTacToeGUI.java file to start the game.
+### ▶ How to Run
+1. Clone the repository  
+2. Open the project in **Eclipse / IntelliJ IDEA**  
+3. Run `TicTacToeGUI.java`
+
+🔗 **Repository:** https://github.com/your-username/tic-tac-toe-java
+
+
