@@ -26,6 +26,5 @@ A desktop-based Tic-Tac-Toe application developed using **Java Swing**, demonstr
 2. Open the project in **Eclipse / IntelliJ IDEA**  
 3. Run `TicTacToeGUI.java`
 
-🔗 **Repository:** https://github.com/your-username/tic-tac-toe-java
-
-
+🔗 **Repository:**https://github.com/Cprasad01/Tic-Tac-Toe-Game-Java-GUI-Application
+ 
